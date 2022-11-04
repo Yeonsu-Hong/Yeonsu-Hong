@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying for Engineer Big Data Analysis 
 - 🤔 I’m currently learning Pandas and Machine learning
 - 🌱 Acquired license : ADsP(Advanced Data Analytics Semi-Professional), 
-- 📫 How to reach me: https://aitzone.tistory.com/
+- 📫 How to reach me : https://aitzone.tistory.com/
 - 😄 Motto : You will never know until you try.
   
 
