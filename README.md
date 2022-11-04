@@ -8,6 +8,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonsu-Hong,prs)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonsu-Hong&theme=dark&show_icons=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
